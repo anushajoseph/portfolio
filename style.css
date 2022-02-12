@@ -346,17 +346,17 @@ header .navbar ul li a:hover{
   
   .html {
     animation: html 2s;
-    width: 80%;
+    width: 60%;
   }
   
   .css {
     animation: css 2s;
-    width: 70%;
+    width: 50%;
   }
   
   .js {
     animation: js 2s;
-    width: 50%;
+    width: 70%;
   }
   
   
@@ -437,7 +437,7 @@ header .navbar ul li a:hover{
 
 .contact .row .content .info h3 i{
     padding-right: 1rem;
-    color:var(--yellow);
+    color:var(--blue);
 }
 
 .top{
