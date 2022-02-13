@@ -99,7 +99,7 @@ header .user img{
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    border:.7rem solid var(--black);
+    border:.7rem solid var(--blue);
 }
 
 header .user .name{
